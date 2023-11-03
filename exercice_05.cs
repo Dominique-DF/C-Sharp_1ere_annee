@@ -1,4 +1,4 @@
-﻿// Exercice 4
+﻿// Exercice 5
 int heureDepart, minDepart, heureArrivee, minArrivee, heureTrajet, minTrajet;
 
 Console.Write("Heure de départ : ");
