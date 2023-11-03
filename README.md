@@ -1,4 +1,4 @@
-# C-Sharp_1ere_annee
+# C-Sharp_1re_annee
 
 Correction des exercices de première année en C#
 
