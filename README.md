@@ -14,7 +14,7 @@ Une année est dite bissextile si elle est divisible par 4, les années multiple
 Écrire un programme qui indique si une année saisie par l’utilisateur est bissextile ou non.
 
 ## Exerice 04
-Écrire un programme qui à partir d’une heure de départ (l’utilisateur saisi indépendamment les heures et minutes) et d’une durée (en heures et minutes également) affiche l’heure d’arrivée.
+Écrire un programme qui à partir d’une heure de départ (l’utilisateur saisit indépendamment les heures et minutes) et d’une durée (en heures et minutes également) affiche l’heure d’arrivée.
 Dans un premier temps validez votre programme avec des cas simples puis vérifiez également qu’il peut fonctionner pour des arrivées le lendemain (on limite le temps de trajet à 24 heures).
 
 ## Exercice 05
