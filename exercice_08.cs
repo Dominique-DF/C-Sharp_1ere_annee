@@ -1,4 +1,4 @@
-﻿// Exercice 7
+﻿// Exercice 8
 int nombre1, nombre2;
 
 Console.WriteLine("Entrez un premier nombre : ");
